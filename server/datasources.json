@@ -1,0 +1,12 @@
+{
+  "givesomebody": {
+    "host": "ds113700.mlab.com",
+    "port": 13700,
+    "url": "mongodb://kanherepratik:amrut1234@ds113700.mlab.com:13700/givesomebody",
+    "database": "givesomebody",
+    "password": "amrut1234",
+    "name": "givesomebody",
+    "user": "kanherepratik",
+    "connector": "mongodb"
+  }
+}
